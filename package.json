@@ -1,0 +1,21 @@
+{
+  "name": "no.1_notetaker_generator_2023",
+  "version": "1.0.0",
+  "description": "## Your Task",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/apostlex11/No.1_NoteTaker_Generator_2023.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/apostlex11/No.1_NoteTaker_Generator_2023/issues"
+  },
+  "homepage": "https://github.com/apostlex11/No.1_NoteTaker_Generator_2023#readme"
+}
